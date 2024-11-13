@@ -1,1 +1,1 @@
-a website not yet fully functional to manage an online bookstore
+a website  to manage an online bookstore
